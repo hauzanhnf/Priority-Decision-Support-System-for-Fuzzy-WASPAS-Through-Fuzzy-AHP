@@ -1,7 +1,7 @@
 # Priority Decision Support System for Poverty Reduction Using Fuzzy WASPAS Through Fuzzy AHP in Ponorogo Regency
 Priority Decision Support System for Poverty Reduction Using Fuzzy WASPAS Through Fuzzy AHP in Ponorogo Regency
 
-**Penulis:** Hauzan Hanifah Zahra (22083010075)
+**Penulis:** Hauzan Hanifah Zahra
 **Studi Kasus:** Kabupaten Ponorogo
 
 ## Deskripsi Proyek
